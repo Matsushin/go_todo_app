@@ -5,6 +5,7 @@ go 1.19
 require golang.org/x/sync v0.3.0
 
 require (
+	github.com/DATA-DOG/go-sqlmock v1.5.0 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.2 // indirect
 	github.com/go-chi/chi/v5 v5.0.10 // indirect
 	github.com/go-playground/locales v0.14.1 // indirect
